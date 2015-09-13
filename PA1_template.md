@@ -331,6 +331,6 @@ plot(g7)
 
 ![plot of chunk unnamed-chunk-14](figure/unnamed-chunk-14-1.png) 
 
-The plot shows some very clear differences in activity patterns. The morning peak on the weekdays is way higher than at the same time in the weekends, but contrastingly the activity during the rest of the day is much higher on weekends.
+The plot shows some very clear differences in the activity pattern. The morning peak on the weekdays is way higher than at the same time in the weekends, but contrastingly the activity during the rest of the day is much higher on weekends.
 It is also clear that the activity in the weekends continue till later on the day than during the weekdays, which is what you would expect normally.
 
